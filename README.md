@@ -1,4 +1,5 @@
-#Birthdays
+<h1>Birthdays</h1>
+
 A web application for storing and managing birthdays.
 
 Technologies
