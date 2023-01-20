@@ -7,6 +7,7 @@ Technologies
  - Flask
  - HTML
  - CSS
+
 Features
  - Add, edit, and delete birthdays
  - View others birthdays
